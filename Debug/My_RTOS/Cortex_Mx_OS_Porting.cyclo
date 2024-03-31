@@ -1,0 +1,9 @@
+D:/STM32_WorkSpace/ARM_CortexM4_M3/CMSIS_V5/core_cm3.h:1641:22:__NVIC_SetPriority	2
+D:/STM32_WorkSpace/ARM_CortexM4_M3/CMSIS_V5/core_cm3.h:1837:26:SysTick_Config	2
+../My_RTOS/Cortex_Mx_OS_Porting.c:11:6:HardFault_Handler	1
+../My_RTOS/Cortex_Mx_OS_Porting.c:16:6:MemManage_Handler	1
+../My_RTOS/Cortex_Mx_OS_Porting.c:21:6:BusFault_Handler	1
+../My_RTOS/Cortex_Mx_OS_Porting.c:26:6:UsageFault_Handler	1
+../My_RTOS/Cortex_Mx_OS_Porting.c:33:29:SVC_Handler	1
+../My_RTOS/Cortex_Mx_OS_Porting.c:45:6:HW_Init	1
+../My_RTOS/Cortex_Mx_OS_Porting.c:56:6:Start_Ticker	1
